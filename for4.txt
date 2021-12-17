@@ -9,4 +9,8 @@ new files
 =======
 dslfajlsdfjla
 sdlfjalj
+<<<<<<< HEAD
 >>>>>>> 7320bd8 (about for4.txt dev change)
+=======
+about add in dev
+>>>>>>> 71c0d38 (about add line in dev)
