@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 sdfjadfdfadfasdfa
 safsdfadfasdf
 dfsf
+=======
+new files
+>>>>>>> d222647 (a commit for4.txt)
