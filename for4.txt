@@ -4,4 +4,9 @@ safsdfadfasdf
 dfsf
 =======
 new files
+<<<<<<< HEAD
 >>>>>>> d222647 (a commit for4.txt)
+=======
+dslfajlsdfjla
+sdlfjalj
+>>>>>>> 7320bd8 (about for4.txt dev change)
