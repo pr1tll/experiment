@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+about b
+>>>>>>> c216fdc (about b)
+>>>>>>> 3b1e7b7 (about b)
 sdfjadfdfadfasdfa
 safsdfadfasdf
 dfsf
