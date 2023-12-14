@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-about b
->>>>>>> c216fdc (about b)
->>>>>>> 3b1e7b7 (about b)
-sdfjadfdfadfasdfa
-safsdfadfasdf
-dfsf
-=======
-new files
-<<<<<<< HEAD
->>>>>>> d222647 (a commit for4.txt)
-=======
-dslfajlsdfjla
-sdlfjalj
-<<<<<<< HEAD
->>>>>>> 7320bd8 (about for4.txt dev change)
-=======
-about add in dev
->>>>>>> 71c0d38 (about add line in dev)
+evening coming today
+ where your find
+going park
